@@ -1,4 +1,4 @@
-FROM node:14-apline
+FROM node:17-apline
 
 WORKDIR /app
 
